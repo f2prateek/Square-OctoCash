@@ -1,4 +1,4 @@
 Square-OctoCash
 ===============
 
-Show OSS devs some love
+Quickly send cash to GitHub developers.
